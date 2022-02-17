@@ -13,7 +13,8 @@ export const Hero = () => {
           loop="loop"
         >
           <source
-            src="https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4"
+            src="https://img-react.s3.amazonaws.com/Keyboard10822.mp4"
+            // src="https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4"
             type="video/mp4"
           />
         </video>
@@ -21,8 +22,8 @@ export const Hero = () => {
         <div className="container h-100">
           <div className="d-flex h-100 text-center align-items-center">
             <div className="w-100 text-white">
-              <h1 className="display-3">Video Header</h1>
-              <p className="lead mb-0">Using HTML5 Video and Bootstrap</p>
+              <h1 className="display-3">Desarrollo de software FullStack</h1>
+              <p className="lead mb-0">Backend + Frontend + Cloud</p>
             </div>
           </div>
         </div>
