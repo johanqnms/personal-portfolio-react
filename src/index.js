@@ -7,7 +7,9 @@ import reportWebVitals from "./reportWebVitals";
 // import bootstrap from 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
+// eslint-disable-next-line no-unused-vars
 import $ from 'jquery';
+// eslint-disable-next-line no-unused-vars
 import Popper from 'popper.js';
 
 ReactDOM.render(

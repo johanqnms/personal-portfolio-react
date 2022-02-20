@@ -1,5 +1,6 @@
 import { Header } from "../../components/Header";
 import { Hero } from "../../components/Hero";
+import { Profile } from "../../components/Profile";
 import "./homepage.sass";
 
 export const Homepage = () => {
@@ -7,7 +8,7 @@ export const Homepage = () => {
     <>
       <Header/>
       <Hero/>
-      <h1>Welcome to React JS 2022</h1>
+      <Profile/>
     </>
   );
 };
