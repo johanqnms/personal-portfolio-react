@@ -1,3 +1,5 @@
+import React from "react";
+
 import "./hero.sass";
 
 export const Hero = () => {
